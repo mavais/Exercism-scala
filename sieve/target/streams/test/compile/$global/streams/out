@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\sieve\src\test\scala\SieveTest.scala:7:11: value primes is not a member of object Sieve[0m
+[0m[[0m[31merror[0m] [0m[0m    Sieve.primes(1) should be(List())[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\sieve\src\test\scala\SieveTest.scala:12:11: value primes is not a member of object Sieve[0m
+[0m[[0m[31merror[0m] [0m[0m    Sieve.primes(2) should be(List(2))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\sieve\src\test\scala\SieveTest.scala:17:11: value primes is not a member of object Sieve[0m
+[0m[[0m[31merror[0m] [0m[0m    Sieve.primes(10) should be(List(2, 3, 5, 7))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\sieve\src\test\scala\SieveTest.scala:22:11: value primes is not a member of object Sieve[0m
+[0m[[0m[31merror[0m] [0m[0m    Sieve.primes(13) should be(List(2, 3, 5, 7, 11, 13))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\sieve\src\test\scala\SieveTest.scala:27:11: value primes is not a member of object Sieve[0m
+[0m[[0m[31merror[0m] [0m[0m    Sieve.primes(1000) should be([0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

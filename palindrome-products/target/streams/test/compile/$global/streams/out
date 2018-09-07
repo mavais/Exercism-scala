@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:18:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(1, 9).smallest should be (Some((1, Set((1, 1)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:23:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(1, 9).largest should be (Some((9, Set((1, 9), (3, 3)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:28:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(10, 99).smallest should be (Some((121, Set((11, 11)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:33:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(10, 99).largest should be (Some((9009, Set((91, 99)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:38:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(100, 999).smallest should be (Some((10201, Set((101, 101)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:43:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(100, 999).largest should be (Some((906609, Set((913, 993)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:48:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(1000, 9999).smallest should be (Some((1002001, Set((1001, 1001)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:53:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(1000, 9999).largest should be (Some((99000099, Set((9901, 9999)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:58:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(1002, 1003).smallest should be (None)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:63:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(15, 15).largest should be (None)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:68:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(10000, 1).smallest should be (None)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\palindrome-products\src\test\scala\PalindromeProductsTest.scala:73:23: PalindromeProducts.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    PalindromeProducts(2, 1).largest should be (None)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m12 errors found[0m

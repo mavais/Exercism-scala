@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mavais\workspace\excersism\scala\collatz-conjecture\src\main\scala\CollatzConjecture.scala:7:47: recursive method iter needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m		if (n<1) None else if (n == 1) Some(x) else iter(if (n%2==0) n/2 else 3*n+1, x+1) [0m
+[0m[[0m[31merror[0m] [0m[0m		                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPalindromeProductsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds the smallest palindrome from single digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds the largest palindrome from single digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- find the smallest palindrome from double digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- find the largest palindrome from double digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- find smallest palindrome from triple digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- find the largest palindrome from triple digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- find smallest palindrome from four digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- find the largest palindrome from four digit factors[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- empty result for smallest if no palindrome in the range[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- empty result for largest if no palindrome in the range[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- error result for smallest if min is more than max[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- error result for largest if min is more than max[0m[0m
